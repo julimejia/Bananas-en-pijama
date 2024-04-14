@@ -1,6 +1,6 @@
 # Proyecto de Predicción de Cargas Eléctricas
 
-Este proyecto tiene como objetivo desarrollar un modelo predictivo para la desagregación de cargas eléctricas en una central energética. Se utilizarán técnicas de aprendizaje automático para predecir el consumo de energía de diferentes equipos.
+Este proyecto tiene como objetivo desarrollar un modelo predictivo para la desagregación de cargas eléctricas. Se utilizarán técnicas de aprendizaje automático para predecir el consumo de energía de diferentes equipos.
 
 ## Integrantes del Equipo
 
